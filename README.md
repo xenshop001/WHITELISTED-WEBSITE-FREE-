@@ -13,7 +13,13 @@ PHP DISCORD WHITELIST RENDSZER - TELEPÍTÉSI ÚTMUTATÓ
 
 
 ------------------------------------
-1. ALAPKONFIGURÁCIÓ (quiz.php)
+1. ALAPKONFIGURÁCIÓ (quiz.php)<img width="923" height="754" alt="Képernyőkép 2025-07-26 201049" src="https://github.com/user-attachments/assets/995eedec-b45a-4a4a-8286-0241e262ed83" />
+<img width="538" height="364" alt="Képernyőkép 2025-07-26 201044" src="https://github.com/user-attachments/assets/20e9db2d-9713-4bfc-884d-05ef0f50b982" />
+<img width="572" height="696" alt="Képernyőkép 2025-07-26 201034" src="https://github.com/user-attachments/assets/da141fdc-008d-40dd-af07-d2c3bc710359" />
+<img width="1161" height="874" alt="Képernyőkép 2025-07-26 201027" src="https://github.com/user-attachments/assets/47a9570f-4e1f-4684-96e9-00e84e2e28da" />
+<img width="1911" height="874" alt="Képernyőkép 2025-07-26 201017" src="https://github.com/user-attachments/assets/7b3de4fa-f903-4afa-8351-42bbb4248f2d" />
+<img width="1915" height="882" alt="Képernyőkép 2025-07-26 201004" src="https://github.com/user-attachments/assets/dc1aab13-ee71-43ab-9d59-69caa9a391e9" />
+
 ------------------------------------
 A rendszer működéséhez szükséges legfontosabb beállításokat a quiz.php fájlban kell elvégezned.
 
