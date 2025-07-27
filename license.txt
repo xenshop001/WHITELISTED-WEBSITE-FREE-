@@ -1,0 +1,23 @@
+__**📄 WebForge Studio – Ingyenes Felhasználási Licenc**__
+
+A jelen licenc a WebForge Studio által ingyenesen biztosított weboldalakra, sablonokra, pluginokra és kapcsolódó fájlokra vonatkozik.
+
+**✅ Engedélyezett:**
+• A fájlok szabadon felhasználhatók személyes vagy ügyfélprojektekben  
+• Módosíthatók, testreszabhatók a saját igényeid szerint  
+• Beépíthetők kereskedelmi weboldalakba, ha nem önálló termékként árulod
+
+**❌ Tilos:**
+• A fájlokat feltölteni, továbbadni, árulni más név alatt  
+• Licenc nélküli másolatokat terjeszteni vagy eladni  
+• A szerzői azonosítást (pl. HTML komment, footer, JS log) eltávolítani  
+• A forrást úgy használni, mintha saját munkád lenne
+
+**⚠️ Fontos tudnivalók:**
+• A fájlok „ahogy van” állapotban kerülnek átadásra, támogatás nem jár hozzájuk  
+• Bármilyen visszaélés (pl. újraértékesítés, nyilvános terjesztés) jogi lépést vonhat maga után  
+• A letöltés és használat automatikus licencelfogadásnak minősül
+
+**📌 Ha biztos akarsz lenni benne, hogy mit tehetsz meg, inkább kérdezz előbb.**
+
+_© WebForge Studio, 2025. Minden jog fenntartva._
